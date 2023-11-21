@@ -2,7 +2,6 @@
 
 Welcome to the Mi Store clone project! This project is a React-based clone of the Mi Store website, aiming to replicate its user interface and functionality.
 
-Project Demo: https://github.com/the-vergil/mi-store-clone/blob/master/mi_Store.mp4
 
 ## Table of Contents
 
